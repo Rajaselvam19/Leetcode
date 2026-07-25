@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972710524" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972717548" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,7 +19,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -30,6 +32,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
+| 3719 | [Longest Balanced Subarray I](./Array/Longest%20Balanced%20Subarray%20I/) | Medium |
 
 </details>
 
@@ -41,7 +45,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 264 | [Ugly Number II](./Hash%20Table/Ugly%20Number%20II/) | Medium |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
@@ -59,9 +65,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 1137 | [N-th Tribonacci Number](./Math/N-th%20Tribonacci%20Number/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |

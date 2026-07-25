@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:45:10.522Z",
+  "lastUpdated": "2026-07-25T09:45:17.546Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -675,6 +675,159 @@
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "1 ms",
+              "memory": "77.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "1 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "2 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "7 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "perfect-squares": {
+          "questionId": "279",
+          "title": "Perfect Squares",
+          "titleSlug": "perfect-squares",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "22 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Math/Perfect Squares/"
+            }
+          }
+        },
+        "longest-balanced-subarray-i": {
+          "questionId": "3719",
+          "title": "Longest Balanced Subarray I",
+          "titleSlug": "longest-balanced-subarray-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Segment Tree",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "9 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Longest Balanced Subarray I/"
+            }
+          }
+        },
+        "ugly-number-ii": {
+          "questionId": "264",
+          "title": "Ugly Number II",
+          "titleSlug": "ugly-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972717546,
+              "runtime": "63 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Ugly Number II/"
             }
           }
         }
