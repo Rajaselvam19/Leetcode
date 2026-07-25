@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:44:57.172Z",
+  "lastUpdated": "2026-07-25T09:45:03.837Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -461,6 +461,95 @@
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972703837,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972703837,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972703837,
+              "runtime": "45 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972703837,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972703837,
+              "runtime": "3 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
             }
           }
         }
