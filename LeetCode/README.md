@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972759558" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972775968" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -28,11 +28,22 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
+| 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
+| 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
+| 240 | [Search a 2D Matrix II](./Array/Search%20a%202D%20Matrix%20II/) | Medium |
+| 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 284 | [Peeking Iterator](./Array/Peeking%20Iterator/) | Medium |
+| 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
+| 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
+| 300 | [Longest Increasing Subsequence](./Array/Longest%20Increasing%20Subsequence/) | Medium |
+| 304 | [Range Sum Query 2D - Immutable](./Array/Range%20Sum%20Query%202D%20-%20Immutable/) | Medium |
 | 307 | [Range Sum Query - Mutable](./Array/Range%20Sum%20Query%20-%20Mutable/) | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/) | Medium |
 | 312 | [Burst Balloons](./Array/Burst%20Balloons/) | Hard |
@@ -42,6 +53,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
 | 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
 | 324 | [Wiggle Sort II](./Array/Wiggle%20Sort%20II/) | Medium |
+| 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
+| 329 | [Longest Increasing Path in a Matrix](./Array/Longest%20Increasing%20Path%20in%20a%20Matrix/) | Hard |
 | 330 | [Patching Array](./Array/Patching%20Array/) | Hard |
 | 334 | [Increasing Triplet Subsequence](./Array/Increasing%20Triplet%20Subsequence/) | Medium |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
@@ -66,6 +79,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) | Easy |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) | Hard |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
@@ -122,6 +136,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
+
+</details>
+
+
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>
@@ -129,8 +154,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
@@ -149,6 +176,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1137 | [N-th Tribonacci Number](./Math/N-th%20Tribonacci%20Number/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2520 | [Count the Digits That Divide a Number](./Math/Count%20the%20Digits%20That%20Divide%20a%20Number/) | Easy |
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:45:59.557Z",
+  "lastUpdated": "2026-07-25T09:46:15.965Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2013,6 +2013,362 @@
               "runtime": "93 ms",
               "memory": "133.9 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Mutable/"
+            }
+          }
+        },
+        "count-primes": {
+          "questionId": "204",
+          "title": "Count Primes",
+          "titleSlug": "count-primes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Enumeration",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "89 ms",
+              "memory": "51.3 MB",
+              "githubPath": "LeetCode/Array/Count Primes/"
+            }
+          }
+        },
+        "minimum-number-of-operations-to-make-all-array-elements-equal-to-1": {
+          "questionId": "2654",
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "2 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
+            }
+          }
+        },
+        "longest-increasing-path-in-a-matrix": {
+          "questionId": "329",
+          "title": "Longest Increasing Path in a Matrix",
+          "titleSlug": "longest-increasing-path-in-a-matrix",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory",
+            "Topological Sort",
+            "Memoization",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "9 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Longest Increasing Path in a Matrix/"
+            }
+          }
+        },
+        "count-of-range-sum": {
+          "questionId": "327",
+          "title": "Count of Range Sum",
+          "titleSlug": "count-of-range-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "51 ms",
+              "memory": "79.1 MB",
+              "githubPath": "LeetCode/Array/Count of Range Sum/"
+            }
+          }
+        },
+        "maximal-square": {
+          "questionId": "221",
+          "title": "Maximal Square",
+          "titleSlug": "maximal-square",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "8 ms",
+              "memory": "70.9 MB",
+              "githubPath": "LeetCode/Array/Maximal Square/"
+            }
+          }
+        },
+        "majority-element-ii": {
+          "questionId": "229",
+          "title": "Majority Element II",
+          "titleSlug": "majority-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "3 ms",
+              "memory": "52.4 MB",
+              "githubPath": "LeetCode/Array/Majority Element II/"
+            }
+          }
+        },
+        "range-sum-query-2d-immutable": {
+          "questionId": "304",
+          "title": "Range Sum Query 2D - Immutable",
+          "titleSlug": "range-sum-query-2d-immutable",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Design",
+            "Matrix",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775964,
+              "runtime": "107 ms",
+              "memory": "142 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query 2D - Immutable/"
+            }
+          }
+        },
+        "longest-increasing-subsequence": {
+          "questionId": "300",
+          "title": "Longest Increasing Subsequence",
+          "titleSlug": "longest-increasing-subsequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "6 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Longest Increasing Subsequence/"
+            }
+          }
+        },
+        "game-of-life": {
+          "questionId": "289",
+          "title": "Game of Life",
+          "titleSlug": "game-of-life",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Game of Life/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "4 ms",
+              "memory": "82.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "single-number-iii": {
+          "questionId": "260",
+          "title": "Single Number III",
+          "titleSlug": "single-number-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "50 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Single Number III/"
+            }
+          }
+        },
+        "search-a-2d-matrix-ii": {
+          "questionId": "240",
+          "title": "Search a 2D Matrix II",
+          "titleSlug": "search-a-2d-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "3 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix II/"
+            }
+          }
+        },
+        "sliding-window-maximum": {
+          "questionId": "239",
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "30 ms",
+              "memory": "146.7 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "swap-nodes-in-pairs": {
+          "questionId": "24",
+          "title": "Swap Nodes in Pairs",
+          "titleSlug": "swap-nodes-in-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "minimum-one-bit-operations-to-make-integers-zero": {
+          "questionId": "1611",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
+            }
+          }
+        },
+        "peeking-iterator": {
+          "questionId": "284",
+          "title": "Peeking Iterator",
+          "titleSlug": "peeking-iterator",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Design",
+            "Iterator"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972775965,
+              "runtime": "4 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Peeking Iterator/"
             }
           }
         }
