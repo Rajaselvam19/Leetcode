@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:47:24.402Z",
+  "lastUpdated": "2026-07-25T09:47:36.304Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3881,6 +3881,292 @@
               "runtime": "4 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856303,
+              "runtime": "11 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856303,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856303,
+              "runtime": "20 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856303,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856303,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "maximum-total-damage-with-spell-casting": {
+          "questionId": "3186",
+          "title": "Maximum Total Damage With Spell Casting",
+          "titleSlug": "maximum-total-damage-with-spell-casting",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "65 ms",
+              "memory": "59.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Total Damage With Spell Casting/"
+            }
+          }
+        },
+        "taking-maximum-energy-from-the-mystic-dungeon": {
+          "questionId": "3147",
+          "title": "Taking Maximum Energy From the Mystic Dungeon",
+          "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "2 ms",
+              "memory": "59.5 MB",
+              "githubPath": "LeetCode/Array/Taking Maximum Energy From the Mystic Dungeon/"
+            }
+          }
+        },
+        "transform-array-by-parity": {
+          "questionId": "3467",
+          "title": "Transform Array by Parity",
+          "titleSlug": "transform-array-by-parity",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "2 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Transform Array by Parity/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "3 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "find-the-minimum-amount-of-time-to-brew-potions": {
+          "questionId": "3494",
+          "title": "Find the Minimum Amount of Time to Brew Potions",
+          "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "139 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
+            }
+          }
+        },
+        "successful-pairs-of-spells-and-potions": {
+          "questionId": "2300",
+          "title": "Successful Pairs of Spells and Potions",
+          "titleSlug": "successful-pairs-of-spells-and-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "48 ms",
+              "memory": "65 MB",
+              "githubPath": "LeetCode/Array/Successful Pairs of Spells and Potions/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972856304,
+              "runtime": "6 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
             }
           }
         }
