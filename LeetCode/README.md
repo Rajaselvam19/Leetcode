@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972829685" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972844406" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,8 +18,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
+| 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
 | 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
+| 46 | [Permutations](./Array/Permutations/) | Medium |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
@@ -200,6 +209,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
@@ -238,6 +248,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2520 | [Count the Digits That Divide a Number](./Math/Count%20the%20Digits%20That%20Divide%20a%20Number/) | Easy |
+| 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 
 </details>
 
@@ -261,8 +272,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
+| 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
+| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 87 | [Scramble String](./String/Scramble%20String/) | Hard |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
