@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972856306" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972868903" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,11 +17,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
@@ -65,6 +69,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 140 | [Word Break II](./Array/Word%20Break%20II/) | Hard |
@@ -76,6 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 174 | [Dungeon Game](./Array/Dungeon%20Game/) | Hard |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
@@ -128,16 +134,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 354 | [Russian Doll Envelopes](./Array/Russian%20Doll%20Envelopes/) | Hard |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 368 | [Largest Divisible Subset](./Array/Largest%20Divisible%20Subset/) | Medium |
+| 417 | [Pacific Atlantic Water Flow](./Array/Pacific%20Atlantic%20Water%20Flow/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
+| 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 1458 | [Max Dot Product of Two Subsequences](./Array/Max%20Dot%20Product%20of%20Two%20Subsequences/) | Hard |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1488 | [Avoid Flood in The City](./Array/Avoid%20Flood%20in%20The%20City/) | Medium |
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1578 | [Minimum Time to Make Rope Colorful](./Array/Minimum%20Time%20to%20Make%20Rope%20Colorful/) | Medium |
@@ -220,8 +229,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
 </details>
@@ -239,6 +250,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
@@ -321,6 +335,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 165 | [Compare Version Numbers](./Two%20Pointers/Compare%20Version%20Numbers/) | Medium |

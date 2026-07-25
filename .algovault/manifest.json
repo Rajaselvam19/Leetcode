@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:47:36.304Z",
+  "lastUpdated": "2026-07-25T09:47:48.900Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4167,6 +4167,313 @@
               "runtime": "6 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "2 ms",
+              "memory": "53.4 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "avoid-flood-in-the-city": {
+          "questionId": "1488",
+          "title": "Avoid Flood in The City",
+          "titleSlug": "avoid-flood-in-the-city",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "32 ms",
+              "memory": "63.9 MB",
+              "githubPath": "LeetCode/Array/Avoid Flood in The City/"
+            }
+          }
+        },
+        "swim-in-rising-water": {
+          "questionId": "778",
+          "title": "Swim in Rising Water",
+          "titleSlug": "swim-in-rising-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "11 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Swim in Rising Water/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "pacific-atlantic-water-flow": {
+          "questionId": "417",
+          "title": "Pacific Atlantic Water Flow",
+          "titleSlug": "pacific-atlantic-water-flow",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "15 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Pacific Atlantic Water Flow/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868899,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "10 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "13 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972868900,
+              "runtime": "5 ms",
+              "memory": "58.4 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         }
