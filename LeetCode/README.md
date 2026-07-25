@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972735233" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972746229" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,17 +22,28 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 368 | [Largest Divisible Subset](./Array/Largest%20Divisible%20Subset/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
+| 1458 | [Max Dot Product of Two Subsequences](./Array/Max%20Dot%20Product%20of%20Two%20Subsequences/) | Hard |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
@@ -42,6 +53,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) | Easy |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) | Hard |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
+| 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
+| 3315 | [Construct the Minimum Bitwise Array II](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20II/) | Medium |
 | 3634 | [Minimum Removals to Balance Array](./Array/Minimum%20Removals%20to%20Balance%20Array/) | Medium |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3640 | [Trionic Array II](./Array/Trionic%20Array%20II/) | Hard |
@@ -57,6 +70,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1382 | [Balance a Binary Search Tree](./Divide%20and%20Conquer/Balance%20a%20Binary%20Search%20Tree/) | Medium |
+
+</details>
+
+
+### Graph Theory
+<details>
+<summary>Click to expand Graph Theory problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3650 | [Minimum Cost Path with Edge Reversals](./Graph%20Theory/Minimum%20Cost%20Path%20with%20Edge%20Reversals/) | Medium |
 
 </details>
 
@@ -113,6 +137,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
@@ -123,6 +158,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
+
+</details>
+
+
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
 
 </details>
 
