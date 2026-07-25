@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972727940" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972735233" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -26,7 +26,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 368 | [Largest Divisible Subset](./Array/Largest%20Divisible%20Subset/) | Medium |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
@@ -36,8 +39,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) | Easy |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) | Hard |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3634 | [Minimum Removals to Balance Array](./Array/Minimum%20Removals%20to%20Balance%20Array/) | Medium |
+| 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3640 | [Trionic Array II](./Array/Trionic%20Array%20II/) | Hard |
 | 3719 | [Longest Balanced Subarray I](./Array/Longest%20Balanced%20Subarray%20I/) | Medium |
 
@@ -62,6 +68,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
+| 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 264 | [Ugly Number II](./Hash%20Table/Ugly%20Number%20II/) | Medium |
@@ -85,6 +92,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
+| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
 | 223 | [Rectangle Area](./Math/Rectangle%20Area/) | Medium |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
@@ -112,6 +121,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 
 </details>
@@ -124,6 +134,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 165 | [Compare Version Numbers](./Two%20Pointers/Compare%20Version%20Numbers/) | Medium |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 
 </details>

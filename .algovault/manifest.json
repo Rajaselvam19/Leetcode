@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:45:27.939Z",
+  "lastUpdated": "2026-07-25T09:45:35.232Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1091,6 +1091,213 @@
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "23 ms",
+              "memory": "74.5 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "fraction-to-recurring-decimal": {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
+            }
+          }
+        },
+        "compare-version-numbers": {
+          "questionId": "165",
+          "title": "Compare Version Numbers",
+          "titleSlug": "compare-version-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
+            }
+          }
+        },
+        "trionic-array-i": {
+          "questionId": "3637",
+          "title": "Trionic Array I",
+          "titleSlug": "trionic-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Trionic Array I/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "distinct-subsequences": {
+          "questionId": "115",
+          "title": "Distinct Subsequences",
+          "titleSlug": "distinct-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "2 ms",
+              "memory": "58.1 MB",
+              "githubPath": "LeetCode/String/Distinct Subsequences/"
+            }
+          }
+        },
+        "divide-an-array-into-subarrays-with-minimum-cost-ii": {
+          "questionId": "3013",
+          "title": "Divide an Array Into Subarrays With Minimum Cost II",
+          "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "417 ms",
+              "memory": "96.9 MB",
+              "githubPath": "LeetCode/Array/Divide an Array Into Subarrays With Minimum Cost II/"
+            }
+          }
+        },
+        "largest-divisible-subset": {
+          "questionId": "368",
+          "title": "Largest Divisible Subset",
+          "titleSlug": "largest-divisible-subset",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "16 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Largest Divisible Subset/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "0 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "divide-an-array-into-subarrays-with-minimum-cost-i": {
+          "questionId": "3010",
+          "title": "Divide an Array Into Subarrays With Minimum Cost I",
+          "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972735232,
+              "runtime": "1 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Divide an Array Into Subarrays With Minimum Cost I/"
             }
           }
         }
