@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:44:46.314Z",
+  "lastUpdated": "2026-07-25T09:44:57.172Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -226,6 +226,241 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "9 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "2099 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "power-of-two": {
+          "questionId": "231",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Power of Two/"
+            }
+          }
+        },
+        "count-the-digits-that-divide-a-number": {
+          "questionId": "2520",
+          "title": "Count the Digits That Divide a Number",
+          "titleSlug": "count-the-digits-that-divide-a-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Count the Digits That Divide a Number/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "14 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "4 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "8 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972697172,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
             }
           }
         }
