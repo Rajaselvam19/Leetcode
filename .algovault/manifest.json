@@ -1,0 +1,236 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-25T09:44:46.314Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "1 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "2 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "24 ms",
+              "memory": "81.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "4 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "92 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "7 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "find-most-frequent-vowel-and-consonant": {
+          "questionId": "3541",
+          "title": "Find Most Frequent Vowel and Consonant",
+          "titleSlug": "find-most-frequent-vowel-and-consonant",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686313,
+              "runtime": "4 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Find Most Frequent Vowel and Consonant/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686314,
+              "runtime": "163 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686314,
+              "runtime": "8 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686314,
+              "runtime": "70 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972686314,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        }
+      },
+      "username": "Rajaofficial_19"
+    }
+  }
+}
