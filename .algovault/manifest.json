@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:47:48.900Z",
+  "lastUpdated": "2026-07-25T09:47:59.488Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4474,6 +4474,291 @@
               "runtime": "5 ms",
               "memory": "58.4 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "reverse-string-ii": {
+          "questionId": "541",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "1 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "113 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "remove-duplicate-letters": {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "2 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "14 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "number-of-atoms": {
+          "questionId": "726",
+          "title": "Number of Atoms",
+          "titleSlug": "number-of-atoms",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Stack",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "5 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Atoms/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879487,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "4 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "30 ms",
+              "memory": "51.6 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "5 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "trapping-rain-water-ii": {
+          "questionId": "407",
+          "title": "Trapping Rain Water II",
+          "titleSlug": "trapping-rain-water-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "19 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water II/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972879488,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
             }
           }
         }
