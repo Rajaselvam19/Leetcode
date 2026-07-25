@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972790731" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972803892" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
@@ -26,10 +28,22 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
+| 140 | [Word Break II](./Array/Word%20Break%20II/) | Hard |
+| 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
+| 150 | [Evaluate Reverse Polish Notation](./Array/Evaluate%20Reverse%20Polish%20Notation/) | Medium |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
+| 174 | [Dungeon Game](./Array/Dungeon%20Game/) | Hard |
+| 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
+| 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
+| 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -88,6 +102,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1578 | [Minimum Time to Make Rope Colorful](./Array/Minimum%20Time%20to%20Make%20Rope%20Colorful/) | Medium |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
@@ -99,6 +114,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3315 | [Construct the Minimum Bitwise Array II](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20II/) | Medium |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 | 3634 | [Minimum Removals to Balance Array](./Array/Minimum%20Removals%20to%20Balance%20Array/) | Medium |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3640 | [Trionic Array II](./Array/Trionic%20Array%20II/) | Hard |
