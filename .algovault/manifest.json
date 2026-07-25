@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:46:56.882Z",
+  "lastUpdated": "2026-07-25T09:47:09.684Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3336,6 +3336,271 @@
               "runtime": "1 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "1 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "minimum-path-sum": {
+          "questionId": "64",
+          "title": "Minimum Path Sum",
+          "titleSlug": "minimum-path-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "3 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Minimum Path Sum/"
+            }
+          }
+        },
+        "unique-paths-ii": {
+          "questionId": "63",
+          "title": "Unique Paths II",
+          "titleSlug": "unique-paths-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Unique Paths II/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "3 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "8 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829683,
+              "runtime": "1 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "4 ms",
+              "memory": "55.6 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "interleaving-string": {
+          "questionId": "97",
+          "title": "Interleaving String",
+          "titleSlug": "interleaving-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "2 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/String/Interleaving String/"
+            }
+          }
+        },
+        "restore-ip-addresses": {
+          "questionId": "93",
+          "title": "Restore IP Addresses",
+          "titleSlug": "restore-ip-addresses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "6 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/String/Restore IP Addresses/"
+            }
+          }
+        },
+        "decode-ways": {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "1 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/String/Decode Ways/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972829684,
+              "runtime": "271 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
             }
           }
         }

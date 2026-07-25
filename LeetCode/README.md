@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972816883" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972829685" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -25,9 +25,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
+| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
+| 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 64 | [Minimum Path Sum](./Array/Minimum%20Path%20Sum/) | Medium |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
@@ -47,6 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
+| 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 140 | [Word Break II](./Array/Word%20Break%20II/) | Hard |
 | 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 150 | [Evaluate Reverse Polish Notation](./Array/Evaluate%20Reverse%20Polish%20Notation/) | Medium |
@@ -254,7 +264,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 87 | [Scramble String](./String/Scramble%20String/) | Hard |
+| 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
+| 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
+| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
+| 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 
 </details>
