@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:45:46.226Z",
+  "lastUpdated": "2026-07-25T09:45:59.557Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1626,6 +1626,393 @@
               "runtime": "10 ms",
               "memory": "52 MB",
               "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "russian-doll-envelopes": {
+          "questionId": "354",
+          "title": "Russian Doll Envelopes",
+          "titleSlug": "russian-doll-envelopes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "51 ms",
+              "memory": "99.5 MB",
+              "githubPath": "LeetCode/Array/Russian Doll Envelopes/"
+            }
+          }
+        },
+        "palindrome-pairs": {
+          "questionId": "336",
+          "title": "Palindrome Pairs",
+          "titleSlug": "palindrome-pairs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Hash Function"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "819 ms",
+              "memory": "61.3 MB",
+              "githubPath": "LeetCode/Array/Palindrome Pairs/"
+            }
+          }
+        },
+        "unique-length-3-palindromic-subsequences": {
+          "questionId": "1930",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "30 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
+            }
+          }
+        },
+        "self-crossing": {
+          "questionId": "335",
+          "title": "Self Crossing",
+          "titleSlug": "self-crossing",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "6 ms",
+              "memory": "59.4 MB",
+              "githubPath": "LeetCode/Array/Self Crossing/"
+            }
+          }
+        },
+        "increasing-triplet-subsequence": {
+          "questionId": "334",
+          "title": "Increasing Triplet Subsequence",
+          "titleSlug": "increasing-triplet-subsequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "2 ms",
+              "memory": "122.6 MB",
+              "githubPath": "LeetCode/Array/Increasing Triplet Subsequence/"
+            }
+          }
+        },
+        "patching-array": {
+          "questionId": "330",
+          "title": "Patching Array",
+          "titleSlug": "patching-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "0 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Patching Array/"
+            }
+          }
+        },
+        "wiggle-sort-ii": {
+          "questionId": "324",
+          "title": "Wiggle Sort II",
+          "titleSlug": "wiggle-sort-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Greedy",
+            "Sorting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "8 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Wiggle Sort II/"
+            }
+          }
+        },
+        "set-intersection-size-at-least-two": {
+          "questionId": "757",
+          "title": "Set Intersection Size At Least Two",
+          "titleSlug": "set-intersection-size-at-least-two",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "9 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
+            }
+          }
+        },
+        "scramble-string": {
+          "questionId": "87",
+          "title": "Scramble String",
+          "titleSlug": "scramble-string",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "2 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/String/Scramble String/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "2 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "increment-submatrices-by-one": {
+          "questionId": "2536",
+          "title": "Increment Submatrices by One",
+          "titleSlug": "increment-submatrices-by-one",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "7 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Array/Increment Submatrices by One/"
+            }
+          }
+        },
+        "coin-change": {
+          "questionId": "322",
+          "title": "Coin Change",
+          "titleSlug": "coin-change",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "15 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Coin Change/"
+            }
+          }
+        },
+        "create-maximum-number": {
+          "questionId": "321",
+          "title": "Create Maximum Number",
+          "titleSlug": "create-maximum-number",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "18 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Create Maximum Number/"
+            }
+          }
+        },
+        "maximum-product-of-word-lengths": {
+          "questionId": "318",
+          "title": "Maximum Product of Word Lengths",
+          "titleSlug": "maximum-product-of-word-lengths",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "9 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Word Lengths/"
+            }
+          }
+        },
+        "count-of-smaller-numbers-after-self": {
+          "questionId": "315",
+          "title": "Count of Smaller Numbers After Self",
+          "titleSlug": "count-of-smaller-numbers-after-self",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "14 ms",
+              "memory": "101.7 MB",
+              "githubPath": "LeetCode/Array/Count of Smaller Numbers After Self/"
+            }
+          }
+        },
+        "super-ugly-number": {
+          "questionId": "313",
+          "title": "Super Ugly Number",
+          "titleSlug": "super-ugly-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "27 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Super Ugly Number/"
+            }
+          }
+        },
+        "burst-balloons": {
+          "questionId": "312",
+          "title": "Burst Balloons",
+          "titleSlug": "burst-balloons",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "40 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Burst Balloons/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-with-cooldown": {
+          "questionId": "309",
+          "title": "Best Time to Buy and Sell Stock with Cooldown",
+          "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock with Cooldown/"
+            }
+          }
+        },
+        "range-sum-query-mutable": {
+          "questionId": "307",
+          "title": "Range Sum Query - Mutable",
+          "titleSlug": "range-sum-query-mutable",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Design",
+            "Binary Indexed Tree",
+            "Segment Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972759556,
+              "runtime": "93 ms",
+              "memory": "133.9 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query - Mutable/"
             }
           }
         }

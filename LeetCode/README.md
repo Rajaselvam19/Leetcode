@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972746229" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972759558" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -33,14 +33,29 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 307 | [Range Sum Query - Mutable](./Array/Range%20Sum%20Query%20-%20Mutable/) | Medium |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/) | Medium |
+| 312 | [Burst Balloons](./Array/Burst%20Balloons/) | Hard |
+| 313 | [Super Ugly Number](./Array/Super%20Ugly%20Number/) | Medium |
+| 315 | [Count of Smaller Numbers After Self](./Array/Count%20of%20Smaller%20Numbers%20After%20Self/) | Hard |
+| 318 | [Maximum Product of Word Lengths](./Array/Maximum%20Product%20of%20Word%20Lengths/) | Medium |
+| 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
+| 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
+| 324 | [Wiggle Sort II](./Array/Wiggle%20Sort%20II/) | Medium |
+| 330 | [Patching Array](./Array/Patching%20Array/) | Hard |
+| 334 | [Increasing Triplet Subsequence](./Array/Increasing%20Triplet%20Subsequence/) | Medium |
+| 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
+| 336 | [Palindrome Pairs](./Array/Palindrome%20Pairs/) | Hard |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 354 | [Russian Doll Envelopes](./Array/Russian%20Doll%20Envelopes/) | Hard |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 368 | [Largest Divisible Subset](./Array/Largest%20Divisible%20Subset/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+| 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 1458 | [Max Dot Product of Two Subsequences](./Array/Max%20Dot%20Product%20of%20Two%20Subsequences/) | Hard |
@@ -50,6 +65,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) | Easy |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Array/Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) | Hard |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
@@ -91,6 +107,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
@@ -99,6 +116,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
+| 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 3541 | [Find Most Frequent Vowel and Consonant](./Hash%20Table/Find%20Most%20Frequent%20Vowel%20and%20Consonant/) | Easy |
 
 </details>
@@ -156,6 +174,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 65 | [Valid Number](./String/Valid%20Number/) | Hard |
+| 87 | [Scramble String](./String/Scramble%20String/) | Hard |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 
