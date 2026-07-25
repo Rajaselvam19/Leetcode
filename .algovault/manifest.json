@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:46:15.965Z",
+  "lastUpdated": "2026-07-25T09:46:30.729Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2369,6 +2369,340 @@
               "runtime": "4 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Peeking Iterator/"
+            }
+          }
+        },
+        "h-index-ii": {
+          "questionId": "275",
+          "title": "H-Index II",
+          "titleSlug": "h-index-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790728,
+              "runtime": "0 ms",
+              "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/H-Index II/"
+            }
+          }
+        },
+        "h-index": {
+          "questionId": "274",
+          "title": "H-Index",
+          "titleSlug": "h-index",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790728,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/H-Index/"
+            }
+          }
+        },
+        "reverse-linked-list-ii": {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790728,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
+            }
+          }
+        },
+        "contains-duplicate-iii": {
+          "questionId": "220",
+          "title": "Contains Duplicate III",
+          "titleSlug": "contains-duplicate-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Sorting",
+            "Bucket Sort",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "59 ms",
+              "memory": "127.1 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate III/"
+            }
+          }
+        },
+        "the-skyline-problem": {
+          "questionId": "218",
+          "title": "The Skyline Problem",
+          "titleSlug": "the-skyline-problem",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Sweep Line",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "6 ms",
+              "memory": "54.5 MB",
+              "githubPath": "LeetCode/Array/The Skyline Problem/"
+            }
+          }
+        },
+        "combination-sum-iii": {
+          "questionId": "216",
+          "title": "Combination Sum III",
+          "titleSlug": "combination-sum-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Combination Sum III/"
+            }
+          }
+        },
+        "kth-largest-element-in-an-array": {
+          "questionId": "215",
+          "title": "Kth Largest Element in an Array",
+          "titleSlug": "kth-largest-element-in-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "3 ms",
+              "memory": "68.7 MB",
+              "githubPath": "LeetCode/Array/Kth Largest Element in an Array/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "405 ms",
+              "memory": "182.6 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-i": {
+          "questionId": "3318",
+          "title": "Find X-Sum of All K-Long Subarrays I",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "59 ms",
+              "memory": "152.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "5 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "11 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "word-search-ii": {
+          "questionId": "212",
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "809 ms",
+              "memory": "55.4 MB",
+              "githubPath": "LeetCode/Array/Word Search II/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "1 ms",
+              "memory": "62.3 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "number-of-islands": {
+          "questionId": "200",
+          "title": "Number of Islands",
+          "titleSlug": "number-of-islands",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784972790729,
+              "runtime": "3 ms",
+              "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Number of Islands/"
             }
           }
         }

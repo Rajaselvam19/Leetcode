@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972775968" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1784972790731" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -28,9 +28,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
+| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
+| 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
+| 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
+| 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
+| 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
+| 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
 | 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
@@ -38,6 +48,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 240 | [Search a 2D Matrix II](./Array/Search%20a%202D%20Matrix%20II/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
+| 274 | [H-Index](./Array/H-Index/) | Medium |
+| 275 | [H-Index II](./Array/H-Index%20II/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 284 | [Peeking Iterator](./Array/Peeking%20Iterator/) | Medium |
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
@@ -85,6 +97,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3315 | [Construct the Minimum Bitwise Array II](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20II/) | Medium |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
 | 3634 | [Minimum Removals to Balance Array](./Array/Minimum%20Removals%20to%20Balance%20Array/) | Medium |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3640 | [Trionic Array II](./Array/Trionic%20Array%20II/) | Hard |
@@ -121,6 +135,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
@@ -143,6 +158,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
+| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
 </details>
 
@@ -201,6 +217,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 87 | [Scramble String](./String/Scramble%20String/) | Hard |
