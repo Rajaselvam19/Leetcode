@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T09:48:08.872Z",
+  "lastUpdated": "2026-07-27T05:24:18.724Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1275,9 +1275,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784972735232,
+              "syncedAt": 1785129858723,
               "runtime": "0 ms",
-              "memory": "47.4 MB",
+              "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
             }
           }
