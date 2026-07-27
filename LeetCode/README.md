@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1785129858763" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1785130258331" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -153,6 +153,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 1458 | [Max Dot Product of Two Subsequences](./Array/Max%20Dot%20Product%20of%20Two%20Subsequences/) | Hard |
+| 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1488 | [Avoid Flood in The City](./Array/Avoid%20Flood%20in%20The%20City/) | Medium |

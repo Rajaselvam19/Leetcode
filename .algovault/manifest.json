@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-27T05:24:18.724Z",
+  "lastUpdated": "2026-07-27T05:30:58.295Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4964,6 +4964,25 @@
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "maximum-product-of-two-elements-in-an-array": {
+          "questionId": "1464",
+          "title": "Maximum Product of Two Elements in an Array",
+          "titleSlug": "maximum-product-of-two-elements-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785130258293,
+              "runtime": "6 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
             }
           }
         }
