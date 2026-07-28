@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-27T05:30:58.295Z",
+  "lastUpdated": "2026-07-28T08:37:03.668Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4983,6 +4983,24 @@
               "runtime": "6 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785227823667,
+              "runtime": "3 ms",
+              "memory": "69.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }
