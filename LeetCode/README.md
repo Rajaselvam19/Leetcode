@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1785227823704" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Rajaofficial_19?theme=tokyonight&show=graph,recent&v=1785229077481" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -153,6 +153,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./Array/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/) | Medium |
 | 1458 | [Max Dot Product of Two Subsequences](./Array/Max%20Dot%20Product%20of%20Two%20Subsequences/) | Hard |
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
